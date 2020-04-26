@@ -1,4 +1,4 @@
-# Turing Back End Challenge
+# E-commerce Back End Challenge
 To complete this challenge, you need to ensure all route returns a similar response object as described in our API guide.
 To achieve this goal
 - You will have to fix the existing bugs
